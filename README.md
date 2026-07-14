@@ -39,12 +39,16 @@ Our code utilizes the following open-source projects:
 
 ## Citation
 
+## Citation
+
+```bibtex
 @inproceedings{nam2026learning,
-  title={Learning from the Undesirable: Robust Adaptation of Language Models without Forgetting},
-  author={Nam, Yunhun and Kim, Jaehyung and Jeong, Jongheon},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={40},
-  number={38},
-  pages={32537--32545},
-  year={2026}
+  title     = {Learning from the Undesirable: Robust Adaptation of Language Models without Forgetting},
+  author    = {Nam, Yunhun and Kim, Jaehyung and Jeong, Jongheon},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume    = {40},
+  number    = {38},
+  pages     = {32537--32545},
+  year      = {2026}
 }
+```
